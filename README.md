@@ -2,7 +2,7 @@
 
 <p align="center">VPN AutoScript is made by FordSenpai to minimize the time consumed and user involvement in setting up your VPS</p>
 <p align="center">[Donations] GCASH: 09206200840 PAYPAL: johnford090@gmail.com FACEBOOK: John Ford Mangiliman</p>
-<p align="center">Facebook Support Link: https://www.facebook.com/johndesu090</p>
+<p align="center">Facebook Support Link: https://www.facebook.com/gugun09</p>
 
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
@@ -30,19 +30,19 @@
 <h3 align="center">Installation (Default Version)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DB && chmod +x DB && ./DB
+wget https://raw.githubusercontent.com/gugun09/AutoScriptDB/master/DB && chmod +x DB && ./DB
   ```
 
 <h3 align="center">Installation (Experimental)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DBE && chmod +x DBE && ./DBE
+wget https://raw.githubusercontent.com/gugun09/AutoScriptDB/master/DBE && chmod +x DBE && ./DBE
   ```
  
 <h3 align="center">Installation (Unstable Early Version)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DBM && chmod +x DBM && ./DBM
+wget https://raw.githubusercontent.com/gugun09/AutoScriptDB/master/DBM && chmod +x DBM && ./DBM
   ```
 
 
@@ -52,15 +52,15 @@ Recommended OS: Debian 10 Buster x64
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/johndesu090/AutoScriptDB/raw/master/Snapshots/1.png">
+<img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/1.png">
    </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDB/raw/master/Snapshots/2.png">
+  <img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/2.png">
    </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDB/raw/master/Snapshots/3.png">
+  <img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/3.png">
   </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDB/raw/master/Snapshots/4.png">
+  <img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/4.png">
    </p>
    
