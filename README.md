@@ -52,15 +52,15 @@ Recommended OS: Debian 10 Buster x64
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/1.png">
+<img src="https://raw.githubusercontent.com/Gugun09/AutoScriptDB/main/Snapshots/1.png">
    </p>
   <p align="center">
-  <img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/2.png">
+  <img src="https://raw.githubusercontent.com/Gugun09/AutoScriptDB/main/Snapshots/2.png">
    </p>
   <p align="center">
-  <img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/3.png">
+  <img src="https://raw.githubusercontent.com/Gugun09/AutoScriptDB/main/Snapshots/3.png">
   </p>
   <p align="center">
-  <img src="https://github.com/gugun09/AutoScriptDB/raw/master/Snapshots/4.png">
+  <img src="https://raw.githubusercontent.com/Gugun09/AutoScriptDB/main/Snapshots/4.png">
    </p>
    
